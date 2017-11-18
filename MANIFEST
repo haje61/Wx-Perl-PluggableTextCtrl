@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Wx-Perl-PluggableTextCtrl.t
+lib/Wx/Perl/PluggableTextCtrl.pm

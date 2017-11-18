@@ -1,0 +1,6 @@
+Revision history for Perl extension Wx::Perl::PluggableTextCtrl.
+
+0.01  Sat Nov 18 21:42:16 2017
+	- original version; created by h2xs 1.23 with options
+		-X Wx::Perl::PluggableTextCtrl
+
